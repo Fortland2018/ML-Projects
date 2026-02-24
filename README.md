@@ -24,6 +24,10 @@ The projects in this repository are built using the following technologies:
 *   Early Stopping to prevent overfitting.
 *   Sigmoid output layer for binary classification.
 
+**Results:**
+*   **Final Validation Accuracy:** (Run notebook to populate)
+*   **Training stopped at epoch:** (Run notebook to populate)
+
 ### Titanic (Classic)
 
 **Problem:** The legendary Titanic ML competition – predicting survival based on passenger data.
@@ -34,3 +38,19 @@ The projects in this repository are built using the following technologies:
 
 ![Training History](images/loss_plot.png)
 *(Note: Visualizations are generated within the notebooks)*
+
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Fortland2018/ML-Projects.git
+   cd ML-Projects
+   ```
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Open notebooks in Jupyter or Google Colab and run cells sequentially.
+
