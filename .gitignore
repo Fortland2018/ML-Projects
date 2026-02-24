@@ -1,1 +1,11 @@
 kaggle.json
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+logs/
+*.csv
+submission.csv
+images/
+*.png
+!images/loss_plot.png
+
